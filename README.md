@@ -1,4 +1,4 @@
-<h3 align="center">👨‍💻 FullStack Developer | Kenya 🇰🇪 | Building Digital Solutions</h3>
+<!-- <h3 align="center">👨‍💻 FullStack Developer | Kenya 🇰🇪 | Building Digital Solutions</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=obadia-maasai&label=Profile%20views&color=0e75b6&style=flat" alt="obadia-maasai" /> 
@@ -90,4 +90,104 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obadia-maasai&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="obadia-maasai" />
   <img src="https://github-readme-stats.vercel.app/api?username=obadia-maasai&show_icons=true&locale=en&theme=vision-friendly-dark" alt="obadia-maasai" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obadia-maasai&theme=vision-friendly-dark" alt="obadia-maasai" />
+</p> -->
+
+
+<h1 align="center">Hi 👋, I'm Obadia Kimeli Maasai</h1>
+<h3 align="center">👨‍💻 Full-Stack Developer | 🇰🇪 Kenya | Building Scalable Digital Solutions</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=obadia-maasai&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/obadia-maasai?tab=followers">
+    <img src="https://img.shields.io/github/followers/obadia-maasai?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obadia-maasai&margin-w=15&column=7&theme=darkhub" alt="github trophies" />
+</p>
+
+---
+
+## 💡 About Me
+
+I’m a **Full-Stack Developer** passionate about building **efficient, scalable, and user-centric web applications**.  
+I enjoy turning complex business requirements into **clean, maintainable code** and robust systems.
+
+- 🔭 Currently working with **React, Python, Flask, and ERP systems**
+- 🌱 Learning **GraphQL, Kafka, and distributed system design**
+- 💬 Ask me about **Frontend Architecture, REST APIs, ERPNext, or UI/UX best practices**
+- 📫 Reach me at **📧 Obadiakimmaasai03@gmail.com**
+- ⚡ Fun fact: *I love solving hard problems with elegant and minimal solutions*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/obadia-maasai" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:Obadiakimmaasai03@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40"/>
+</p>
+
+### 🧠 Backend & Databases
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
+</p>
+
+### ⚙️ DevOps & Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obadia-maasai&show_icons=true&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obadia-maasai&show_icons=true&theme=vision-friendly-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obadia-maasai&theme=vision-friendly-dark" />
+</p>
+
+---
+
+## 🚀 What I Focus On
+- Building **scalable full-stack applications**
+- **ERPNext customization & integrations**
+- Clean UI/UX with **performance-optimized React**
+- API-driven architectures & data pipelines
+- Writing **maintainable, production-ready code**
+
+---
+
+⭐ *If you like my work, feel free to follow or connect — collaboration is always welcome!*
